@@ -13,6 +13,7 @@
     <img src="/assets/arrow.png" width="75" height="75" alt="Índice">
   </a>
 </p>
+
 # Prólogo
 
 El desarrollo web moderno ha dejado de ser únicamente la construcción de páginas estáticas para convertirse en el diseño de **experiencias digitales completas**, conectadas y en constante evolución.  
