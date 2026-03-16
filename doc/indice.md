@@ -18,9 +18,6 @@
 ## Descripción
 
 Este repositorio contiene el **manual de prácticas** de desarrollo web con HTML5, CSS3 y JavaScript, integrando modelos de IA como asistentes en el proceso de construcción de aplicaciones web del lado del cliente, del servidor y entornos cloud nativos.
-
-Cada módulo cuenta con su propio `README.md` donde se describen los objetivos, requisitos y actividades de cada práctica.
-
 ---
 
 ## Índice general de prácticas
@@ -74,6 +71,8 @@ Cada módulo cuenta con su propio `README.md` donde se describen los objetivos, 
 
 ## Recomendación de trabajo
 
+Cada módulo cuenta con su propio `README.md` donde se describen los objetivos, requisitos y actividades de cada práctica.
+
 1. Sigue el orden sugerido de prácticas.  
 2. Documenta en cada práctica cómo utilizaste la IA y qué decisiones tomaste tú como desarrollador.  
 3. Usa issues o pull requests para registrar mejoras y retroalimentación.
@@ -85,3 +84,11 @@ Cada módulo cuenta con su propio `README.md` donde se describen los objetivos, 
     <img src="/assets/arrow.png" width="75" height="75" alt="Índice">
   </a>
 </p>
+
+## Contacto y apoyo:
+
+[![TecMM](https://img.shields.io/badge/TecMM-zapopan-0D3692?style=for-the-badge&logo=university&logoColor=white&labelColor=101010)](https://www.tecmm.edu.mx/)
+</br>
+[![Email](https://img.shields.io/badge/leon.ramos@zapopan.tecmm.edu.mx-email_institucional_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leon.ramos@zapopan.tecmm.edu.mx)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://paypal.me/cdci?locale.x=es_XC&country.x=MX)
