@@ -6,13 +6,15 @@
 [![Node.js](https://img.shields.io/badge/Server%20Side-Node.js-339933?logo=node.js&logoColor=white)](./)
 [![Cloud](https://img.shields.io/badge/Cloud-native-blueviolet)](./)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-# PRÁCTICAS DE DESARROLLO WEB 2026-1 ITJMMPyH 
+# PRÁCTICAS DE DESARROLLO WEB 2025-1 ITJMMPyH 
 ## HTML5 · CSS3 · JavaScript · Modelos IA
 ### 2025 Version 1.0
 
 
 [![portada](/assets/portada.png)](/doc/prologo.md)
-
+<a href="/doc/indice.md">
+  <img src="/assets/arrow.png" width="25" height="25" alt="Índice">
+</a>
 ## Licencia
 
 Este repositorio y sus materiales se publican bajo la licencia [Creative Commons Reconocimiento Compartir Igual 4.0 (CC BY-SA 4.0)].
