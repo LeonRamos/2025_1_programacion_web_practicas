@@ -9,12 +9,18 @@
 # PRÁCTICAS DE DESARROLLO WEB 2025-1 ITJMMPyH 
 ## HTML5 · CSS3 · JavaScript · Modelos IA
 ### 2025 Version 1.0
-
+<p align="right">
+  <a href="/doc/indice.md">
+    <img src="/assets/arrow.png" width="75" height="75" alt="Índice">
+  </a>
+</p>
 
 [![portada](/assets/portada.png)](/doc/prologo.md)
-<a href="/doc/indice.md">
-  <img src="/assets/arrow.png" width="25" height="25" alt="Índice">
-</a>
+<p align="right">
+  <a href="/doc/indice.md">
+    <img src="/assets/arrow.png" width="75" height="75" alt="Índice">
+  </a>
+</p>
 ## Licencia
 
 Este repositorio y sus materiales se publican bajo la licencia [Creative Commons Reconocimiento Compartir Igual 4.0 (CC BY-SA 4.0)].
