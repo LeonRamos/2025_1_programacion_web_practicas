@@ -42,30 +42,6 @@ Este repositorio contiene el **manual de prácticas** de desarrollo web con HTML
 10. [PR-10: Catálogo de datos en XML y JSON](/modulo-03/PR-10-xml-json/README.md)  
 11. [PR-11: Consumo de datos en el navegador](/modulo-03/PR-11-consumo-datos/README.md)  
 
-### Módulo 4 · Aplicaciones del lado del cliente (JavaScript)
-
-12. [PR-12: Manipulación del DOM](/modulo-04/PR-12-dom-basico/README.md)  
-13. [PR-13: Manejo de eventos y formularios](/modulo-04/PR-13-eventos-formularios/README.md)  
-14. [PR-14: Consumo de APIs REST](/modulo-04/PR-14-consumo-apis/README.md)  
-15. [PR-15: Refactorización asistida por IA](/modulo-04/PR-15-refactorizacion-ia/README.md)  
-
-### Módulo 5 · Aplicaciones del lado del servidor
-
-16. [PR-16: Servidor básico HTTP](/modulo-05/PR-16-servidor-http/README.md)  
-17. [PR-17: Rutas y controladores](/modulo-05/PR-17-rutas-controladores/README.md)  
-18. [PR-18: Conexión a base de datos](/modulo-05/PR-18-bd-conexion/README.md)  
-19. [PR-19: API REST con documentación generada](/modulo-05/PR-19-api-rest-doc/README.md)  
-
-### Módulo 6 · Introducción a arquitecturas cloud nativas
-
-20. [PR-20: Empaquetado en contenedores](/modulo-06/PR-20-contenedores/README.md)  
-21. [PR-21: Despliegue en la nube](/modulo-06/PR-21-despliegue-cloud/README.md)  
-22. [PR-22: Variables de entorno y configuración](/modulo-06/PR-22-configuracion/README.md)  
-23. [PR-23: Monitoreo básico de la aplicación](/modulo-06/PR-23-monitoreo/README.md)  
-
-### Proyecto integrador
-
-24. [PR-24: Proyecto final – Aplicación web full stack asistida por IA](/proyecto-final/PR-24-proyecto-fullstack-ia/README.md)  
 
 ---
 
